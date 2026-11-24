@@ -1,0 +1,545 @@
+[
+ {
+  "address": "12251 W Village Dr Unit B, Houston, TX 77039",
+  "claimed": {
+   "baths": 2.5,
+   "beds": 3,
+   "source": "Listing (HAR MLS #58847267, via syndications)",
+   "sqft": 1623
+  },
+  "geometry": {
+   "aspectWH": {
+    "floor1": 0.488
+   },
+   "floor1": {
+    "rooms": [
+     {
+      "d": 0.39,
+      "name": "Kitchen",
+      "w": 0.48,
+      "x": 0.52,
+      "y": 0.0
+     },
+     {
+      "d": 0.45,
+      "name": "Dining Area",
+      "w": 0.7,
+      "x": 0.3,
+      "y": 0.1
+     },
+     {
+      "d": 0.37,
+      "name": "Living Room",
+      "w": 0.46,
+      "x": 0.0,
+      "y": 0.39
+     },
+     {
+      "d": 0.14,
+      "name": "Half Bath",
+      "w": 0.14,
+      "x": 0.46,
+      "y": 0.39
+     },
+     {
+      "d": 0.14,
+      "name": "Stairs",
+      "w": 0.3,
+      "x": 0.14,
+      "y": 0.62
+     },
+     {
+      "d": 0.14,
+      "name": "Hall",
+      "w": 0.26,
+      "x": 0.44,
+      "y": 0.62
+     },
+     {
+      "d": 0.38,
+      "name": "Foyer",
+      "w": 0.14,
+      "x": 0.0,
+      "y": 0.62
+     },
+     {
+      "d": 0.24,
+      "name": "Primary Bedroom",
+      "w": 0.56,
+      "x": 0.14,
+      "y": 0.76
+     },
+     {
+      "d": 0.15,
+      "name": "Bath",
+      "w": 0.3,
+      "x": 0.7,
+      "y": 0.76
+     },
+     {
+      "d": 0.09,
+      "name": "W.I.C.",
+      "w": 0.3,
+      "x": 0.7,
+      "y": 0.91
+     }
+    ]
+   },
+   "floor2": {
+    "lengthRatio": 0.65,
+    "offsetY": 0.35,
+    "rooms": [
+     {
+      "d": 0.42,
+      "name": "Bedroom",
+      "w": 0.75,
+      "x": 0.25,
+      "y": 0.0
+     },
+     {
+      "d": 0.15,
+      "name": "Stairs",
+      "w": 0.27,
+      "x": 0.25,
+      "y": 0.42
+     },
+     {
+      "d": 0.22,
+      "name": "Hall",
+      "w": 0.28,
+      "x": 0.52,
+      "y": 0.42
+     },
+     {
+      "d": 0.4,
+      "name": "Bedroom",
+      "w": 0.64,
+      "x": 0.0,
+      "y": 0.55
+     },
+     {
+      "d": 0.31,
+      "name": "Bath",
+      "w": 0.32,
+      "x": 0.68,
+      "y": 0.64
+     },
+     {
+      "d": 0.2,
+      "name": "Closet",
+      "w": 0.1,
+      "x": 0.64,
+      "y": 0.55
+     }
+    ]
+   },
+   "floorAreas": {
+    "floor1": 984,
+    "floor2": 639
+   },
+   "garage": {
+    "dRatioToLivingL": 0.39,
+    "label": "Garage + Utility (not in living sq ft)",
+    "name": "Garage + Utility",
+    "wRatioToLivingW": 1.11
+   },
+   "heightsFt": {
+    "floor1": 9,
+    "floor2": 8
+   }
+  },
+  "hoa": {
+   "monthly": 202,
+   "source": "Listing (Nov 23, 2026 thread)"
+  },
+  "id": "12251-w-village-dr-unit-b",
+  "listingLabel": "Listing \u2014 Zillow (HAR MLS #58847267)",
+  "listingUrl": "https://www.zillow.com/homedetails/12251-W-Village-Dr-UNIT-B-Houston-TX-77039/28207838_zpid/",
+  "photos": {
+   "captions": {
+    "0": "Front exterior",
+    "1": "Front exterior",
+    "10": "Dining area + kitchen",
+    "11": "Kitchen",
+    "12": "Kitchen",
+    "13": "Dining / living from kitchen",
+    "14": "Primary bedroom (floor 1)",
+    "15": "Bedroom (floor 2)",
+    "16": "Bedroom (floor 2)",
+    "17": "Bedroom (floor 2)",
+    "18": "Full bath",
+    "19": "Bedroom (floor 2)",
+    "2": "Front exterior",
+    "20": "Bedroom (floor 2)",
+    "21": "Bedroom (floor 2)",
+    "22": "Full bath",
+    "23": "Bedroom (floor 2)",
+    "24": "Bedroom (floor 2)",
+    "25": "Bedroom (floor 2)",
+    "26": "Rear patio / yard",
+    "27": "Rear patio / yard",
+    "28": "Floor plan \u2014 both floors",
+    "29": "Floor plan \u2014 1st floor",
+    "3": "Foyer / entry hall",
+    "30": "Floor plan \u2014 2nd floor",
+    "4": "Living room \u2014 fireplace, double-height ceiling",
+    "5": "Living room \u2014 fireplace",
+    "6": "Living / dining",
+    "7": "Living room \u2014 stairs",
+    "8": "Half bath (floor 1)",
+    "9": "Dining area + kitchen"
+   },
+   "dir": "houses/unit-b/",
+   "planFiles": [
+    "28",
+    "29",
+    "30"
+   ]
+  },
+  "planShows": {
+   "baths": 2.5,
+   "beds": 3,
+   "note": "Cubicasa plan labels a Primary Bedroom on floor 1 plus 2 Bedrooms on floor 2 (3 total), 1 full bath per floor, and a half bath off the kitchen hall (photo 8). Matches the listing and public records (3 bed / 2.5 bath)."
+  },
+  "price": 70000,
+  "priceNote": "Listing price as of Nov 23, 2026",
+  "records": {
+   "assessed2025": 123545,
+   "assessed2026": 102216,
+   "hcadAccount": "1064490010002",
+   "legal": "Unit B Blk 1 Pine Village North T/H Sec 2",
+   "lotSqft": 1710,
+   "priceHistory": "Listed 3/16/2026 at $100,000 \u2014 reduced to $70,000 on 10/26/2026. Bank-owned; also running as an auction on Auction.com. Owner per Oct 2026 public-record report: Aeroestate LLC.",
+   "stories": 2,
+   "yearBuilt": 1979
+  },
+  "verified": {
+   "caveat": "HCAD's own record page could not be opened directly (its detail pages need a search-generated link); the HCAD figure rests on public-record reports and the assessor-records aggregator carrying HCAD data for this exact account. The MLS itself states the living-area source as 'Appraiser'.",
+   "sources": [
+    {
+     "figure": "Living Area 1,623 sq ft",
+     "name": "HCAD acct 1064490010002 \u2014 public-record reports (Jul + Oct 2026)",
+     "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/758EE0EB2C4F4FDDAE00DF8EC5CA21EB.v1.pdf"
+    },
+    {
+     "figure": "Building size 1,623 sq ft",
+     "name": "CountyOffice.org \u2014 Harris County Assessor records",
+     "url": "https://www.countyoffice.org/12251-w-village-dr-houston-tx-77039-property-records/"
+    }
+   ],
+   "sqft": 1623
+  }
+ },
+ {
+  "address": "2423 Buttonhill Dr, Missouri City, TX 77489",
+  "claimed": {
+   "baths": 3.5,
+   "beds": 4,
+   "source": "Listing (HAR MLS #82275940)",
+   "sqft": 3411
+  },
+  "condition": "Listing describes it as a fixer-upper: new roof, new carpet (photos show some carpet worn/pulled), covered patio, game room upstairs.",
+  "floorSplit": {
+   "floor1": 1791,
+   "floor2": 1140,
+   "source": "Fort Bend CAD acct R72814"
+  },
+  "geometry": {
+   "aspectWH": {
+    "floor1": 0.516,
+    "floor2": 0.898
+   },
+   "comment": "Normalized room boxes measured from the Cubicasa plan drawings (wall-line pixel anchors). Each floor is scaled separately to its Fort Bend CAD area (floor 1: 1,791 sq ft, floor 2: 1,140 sq ft) using the plan's own aspect ratio. The plan prints room dimensions, so proportions are anchored to printed sizes, not eyeballed. Vertical registration between floors and the garage placement (from exterior photos) are estimated.",
+   "floor1": {
+    "rooms": [
+     {
+      "d": 0.13,
+      "name": "Bath",
+      "w": 0.42,
+      "x": 0.3,
+      "y": 0.0
+     },
+     {
+      "d": 0.286,
+      "name": "Primary Bedroom",
+      "w": 0.7,
+      "x": 0.3,
+      "y": 0.1
+     },
+     {
+      "d": 0.076,
+      "name": "Entry",
+      "w": 0.22,
+      "x": 0.3,
+      "y": 0.31
+     },
+     {
+      "d": 0.214,
+      "name": "Kitchen",
+      "w": 0.33,
+      "x": 0.0,
+      "y": 0.386
+     },
+     {
+      "d": 0.294,
+      "name": "Family Room",
+      "w": 0.67,
+      "x": 0.33,
+      "y": 0.386
+     },
+     {
+      "d": 0.15,
+      "name": "Dining Area",
+      "w": 0.36,
+      "x": 0.0,
+      "y": 0.6
+     },
+     {
+      "d": 0.25,
+      "name": "Living Room",
+      "w": 0.46,
+      "x": 0.0,
+      "y": 0.75
+     },
+     {
+      "d": 0.16,
+      "name": "Stairs",
+      "w": 0.14,
+      "x": 0.52,
+      "y": 0.66
+     },
+     {
+      "d": 0.08,
+      "name": "Hall",
+      "w": 0.14,
+      "x": 0.66,
+      "y": 0.68
+     },
+     {
+      "d": 0.08,
+      "name": "Half Bath",
+      "w": 0.13,
+      "x": 0.8,
+      "y": 0.68
+     }
+    ]
+   },
+   "floor2": {
+    "rooms": [
+     {
+      "d": 0.36,
+      "name": "Bedroom",
+      "w": 0.25,
+      "x": 0.0,
+      "y": 0.0
+     },
+     {
+      "d": 0.12,
+      "name": "W.I.C.",
+      "w": 0.25,
+      "x": 0.0,
+      "y": 0.36
+     },
+     {
+      "d": 0.48,
+      "name": "Game Room",
+      "w": 0.26,
+      "x": 0.25,
+      "y": 0.0
+     },
+     {
+      "d": 0.36,
+      "name": "Bedroom",
+      "w": 0.21,
+      "x": 0.51,
+      "y": 0.0
+     },
+     {
+      "d": 0.14,
+      "name": "Bath",
+      "w": 0.21,
+      "x": 0.51,
+      "y": 0.42
+     },
+     {
+      "d": 0.1,
+      "name": "Laundry",
+      "w": 0.12,
+      "x": 0.6,
+      "y": 0.56
+     },
+     {
+      "d": 0.16,
+      "name": "Bath",
+      "w": 0.23,
+      "x": 0.72,
+      "y": 0.5
+     },
+     {
+      "d": 0.27,
+      "name": "Stairs",
+      "w": 0.09,
+      "x": 0.42,
+      "y": 0.48
+     },
+     {
+      "d": 0.34,
+      "name": "Bedroom",
+      "w": 0.35,
+      "x": 0.51,
+      "y": 0.66
+     },
+     {
+      "d": 0.34,
+      "name": "W.I.C.",
+      "w": 0.14,
+      "x": 0.86,
+      "y": 0.66
+     }
+    ],
+    "voids": [
+     {
+      "d": 0.52,
+      "name": "Open to Below",
+      "w": 0.42,
+      "x": 0.0,
+      "y": 0.48
+     }
+    ]
+   },
+   "floorAreas": {
+    "floor1": 1791,
+    "floor2": 1140
+   },
+   "garage": {
+    "name": "Garage (480 sq ft, not living area)",
+    "note": "Attached 2-car garage, front-left of the house in the exterior photos; placement estimated. Cubicasa plans cover the interior only.",
+    "sqft": 480
+   },
+   "heightsFt": {
+    "floor1": 9,
+    "floor2": 8,
+    "note": "Assumed ceiling heights (estimated). The family room is double-height (photos 4, 5, 10) with the game room overlooking it \u2014 the model's Open to Below void sits over it."
+   }
+  },
+  "hoa": {
+   "annual": 400,
+   "monthly": 33,
+   "name": "Marshall Management Group Association",
+   "source": "Listing (Homes.com)"
+  },
+  "id": "2423-buttonhill-dr",
+  "listingLabel": "Listing \u2014 Homes.com (HAR MLS #82275940)",
+  "listingUrl": "https://www.homes.com/property/2423-buttonhill-dr-missouri-city-tx/frg77065bgwh5/?l=07khs4wbr3km6",
+  "photos": {
+   "captions": {
+    "1": "Front exterior",
+    "10": "Family room \u2014 fireplace, beams",
+    "11": "Half bath (floor 1)",
+    "12": "Hallway",
+    "13": "Primary bedroom (floor 1)",
+    "14": "Primary bedroom (floor 1)",
+    "15": "Primary bedroom (floor 1)",
+    "16": "Primary bedroom (floor 1)",
+    "17": "Primary bath",
+    "18": "Primary bath \u2014 shower",
+    "19": "Bedroom (floor 2)",
+    "2": "Front exterior",
+    "20": "Landing / game room overlook",
+    "21": "Bedroom (floor 2)",
+    "22": "Bedroom (floor 2)",
+    "23": "Bedroom (floor 2)",
+    "24": "Bedroom (floor 2)",
+    "25": "Bath (floor 2)",
+    "26": "Bath (floor 2)",
+    "27": "Laundry (floor 2)",
+    "28": "Bedroom (floor 2)",
+    "29": "Bedroom (floor 2)",
+    "3": "Game room (floor 2)",
+    "30": "Bath \u2014 double vanity",
+    "31": "Bath (floor 2)",
+    "32": "Walk-in closet",
+    "33": "Floor plan \u2014 1st floor",
+    "34": "Floor plan \u2014 2nd floor",
+    "35": "Floor plan \u2014 both floors",
+    "4": "Family room \u2014 double-height ceiling, stairs",
+    "5": "Family room from the landing",
+    "6": "Game room (floor 2)",
+    "7": "Family room \u2014 fireplace",
+    "8": "Kitchen",
+    "9": "Kitchen + dining"
+   },
+   "dir": "houses/buttonhill/",
+   "planFiles": [
+    "33",
+    "34",
+    "35"
+   ]
+  },
+  "planDims": {
+   "floor1": [
+    "Primary Bedroom 23'1\" x 23'0\"",
+    "Bath 15'9\" x 7'10\"",
+    "Entry 9'1\" x 5'8\"",
+    "Kitchen 13'7\" x 16'1\"",
+    "Family Room 18'10\" x 19'8\"",
+    "Dining Area 14'7\" x 10'5\"",
+    "Living Room 18'9\" x 16'8\"",
+    "Hall 5'11\" x 5'7\"",
+    "Bath (half) 4'6\" x 5'3\""
+   ],
+   "floor2": [
+    "Bedroom 9'2\" x 12'5\"",
+    "W.I.C. 5'7\" x 3'4\"",
+    "Game Room 16'4\" x 27'7\"",
+    "Bedroom 9'11\" x 12'3\"",
+    "Bath 9'11\" x 7'0\"",
+    "Laundry 4'6\" x 5'4\"",
+    "Bath 10'0\" x 7'5\"",
+    "Bedroom 14'1\" x 13'10\"",
+    "W.I.C. 5'8\" x 13'10\""
+   ],
+   "note": "The Cubicasa plans for this house print room dimensions. Room areas from those dimensions sum to about 1,815 sq ft (floor 1) and 1,145 sq ft (floor 2) \u2014 within about 1% of Fort Bend CAD's 1,791 / 1,140, so the plan and the county record agree; the listing's 3,411 does not match either."
+  },
+  "price": 169900,
+  "priceNote": "Listing price as of Nov 24, 2026",
+  "records": {
+   "appraised2026": 297600,
+   "countsNote": "Public records describe 3 bd / 2 ba (a 2023 foreclosure page says 3 bd / 2.5 ba); the listing claims 4 bd / 3.5 ba.",
+   "fbcadAccount": "R72814",
+   "garage": "Attached garage 480 sq ft (2-car), not living area",
+   "geoId": "3850-04-005-0460-907",
+   "legal": "Hunters Glen Sec 4, Block 5, Lot 46",
+   "lotSqft": 10493,
+   "priceHistory": "Listed 11/08/2026 at $169,900 by Montes & Associates Realty. Bank-owned: owner Nationstar Mortgage LLC (Jul 2025 foreclosure deed). Advertised $50/sq ft uses the claimed area; at the verified 2,931 sq ft the ask is about $58/sq ft.",
+   "stories": 2,
+   "yearBuilt": 1983
+  },
+  "verified": {
+   "caveat": "The 480 sq ft gap is exactly the attached garage's size in the FBCAD record (2,931 + 480 = 3,411) \u2014 the listing figure appears to count the garage as living area. HAR's display labels the 3,411 'Sqft / Appraisal District'; the same MLS feed's RESO fields say Living Area Source: 'Appraiser'. FBCAD's own record is 2,931.",
+   "sources": [
+    {
+     "figure": "Living Area 2,931 sq ft = Main Area 1,791 + 2nd Story 1,140; attached garage 480 sq ft carried separately",
+     "name": "Fort Bend CAD acct R72814 (2026 certified roll, read directly)",
+     "url": "https://esearch.fbcad.org/Property/View/R72814"
+    },
+    {
+     "figure": "Building size 2,931 sq ft",
+     "name": "CountyOffice.org \u2014 Fort Bend Assessor records",
+     "url": "https://www.countyoffice.org/buttonhill-dr-missouri-city-tx-property-records/"
+    },
+    {
+     "figure": "Total interior livable area 2,931 sq ft",
+     "name": "Zillow public-record profile (pre-listing)",
+     "url": "https://www.zillow.com/homedetails/2423-Buttonhill-Dr-Missouri-City-TX-77489/27566204_zpid/"
+    },
+    {
+     "figure": "Floor size 2,931 sq ft; garage 480 sq ft",
+     "name": "Homemetry \u2014 public records",
+     "url": "https://homemetry.com/house/2423+BUTTONHILL+DR,+Missouri+City+TX"
+    }
+   ],
+   "sqft": 2931
+  }
+ }
+]
