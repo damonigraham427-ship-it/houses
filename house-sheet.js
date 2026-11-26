@@ -38,10 +38,13 @@
       card.appendChild(el('p', null, 'Verified: ' + fmt(verified.sqft) + ' sq ft'));
       (verified.sources || []).forEach(function (s) {
         var p = el('p', 'history');
-        p.appendChild(document.createTextNode(s.name + ' \u2014 ' + s.figure + ' \u2014 '));
-        var a = el('a', null, s.url);
-        a.href = s.url;
-        p.appendChild(a);
+        p.appendChild(document.createTextNode(s.name + ' \u2014 ' + s.figure));
+        if (s.url) {
+          p.appendChild(document.createTextNode(' \u2014 '));
+          var a = el('a', null, s.url);
+          a.href = s.url;
+          p.appendChild(a);
+        }
         card.appendChild(p);
       });
     } else {
@@ -163,7 +166,11 @@
   function renderPlans(house) {
     var wrap = document.getElementById('sheet-plans');
     wrap.appendChild(el('h2', null, 'Floor plans'));
-    (house.photos.planFiles || []).forEach(function (idx) {
+    if (house.planNote) {
+      wrap.appendChild(el('p', null, house.planNote));
+    }
+    var plans = (house.photos && house.photos.planFiles) || [];
+    plans.forEach(function (idx) {
       wrap.appendChild(photoFigure(house, idx));
     });
   }
@@ -171,9 +178,42 @@
   function renderPhotos(house) {
     var wrap = document.getElementById('sheet-photos');
     wrap.appendChild(el('h2', null, 'Photos'));
-    Object.keys(house.photos.captions)
+    var photos = house.photos || {};
+    if (photos.galleryUrl) {
+      var p = el('p');
+      var a = el('a', null, photos.galleryLabel || 'Photo gallery');
+      a.href = photos.galleryUrl;
+      p.appendChild(a);
+      wrap.appendChild(p);
+      if (photos.galleryNote) wrap.appendChild(el('p', 'history', photos.galleryNote));
+      return;
+    }
+    Object.keys(photos.captions || {})
       .sort(function (a, b) { return Number(a) - Number(b); })
       .forEach(function (idx) { wrap.appendChild(photoFigure(house, idx)); });
+  }
+
+  function renderWarning(house) {
+    var wrap = document.getElementById('sheet-warning');
+    if (!wrap || !house.warning) return;
+    var card = el('article', 'exam-card');
+    card.appendChild(el('h2', 'flag', 'Condition warning \u2014 from the listing'));
+    card.appendChild(el('p', 'flag', '\u201C' + house.warning + '\u201D'));
+    wrap.appendChild(card);
+  }
+
+  function renderWorkup(house) {
+    var wrap = document.getElementById('sheet-workup');
+    if (!wrap || !house.workup) return;
+    var card = el('article', 'exam-card');
+    card.appendChild(el('h2', null, 'Workup'));
+    house.workup.forEach(function (sec) {
+      if (sec.h) card.appendChild(el('h3', null, sec.h));
+      (sec.lines || []).forEach(function (line) {
+        card.appendChild(el('p', null, line));
+      });
+    });
+    wrap.appendChild(card);
   }
 
   function renderNotes(house) {
@@ -191,7 +231,9 @@
     if (verified.caveat) {
       card.appendChild(el('p', null, 'Caveat: ' + verified.caveat));
     }
-    if (house.planDims) {
+    if (house.modelNote) {
+      card.appendChild(el('p', null, house.modelNote));
+    } else if (house.planDims) {
       card.appendChild(el('p', null,
         'Estimated: the 3D model\u2019s room layout is anchored to the room ' +
         'dimensions printed on the Cubicasa plan, and each floor is scaled ' +
@@ -219,11 +261,13 @@
       a.href = house.listingUrl;
       document.getElementById('sheet-listing').appendChild(a);
     }
+    renderWarning(house);
     renderFacts(house);
     renderRecord(house);
     renderPlanDims(house);
     renderPlans(house);
     renderPhotos(house);
+    renderWorkup(house);
     renderNotes(house);
   }
 

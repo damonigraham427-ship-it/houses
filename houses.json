@@ -153,7 +153,7 @@
    "source": "Listing (Nov 23, 2026 thread)"
   },
   "id": "12251-w-village-dr-unit-b",
-  "listingLabel": "Listing \u2014 Zillow (HAR MLS #58847267)",
+  "listingLabel": "Listing — Zillow (HAR MLS #58847267)",
   "listingUrl": "https://www.zillow.com/homedetails/12251-W-Village-Dr-UNIT-B-Houston-TX-77039/28207838_zpid/",
   "photos": {
    "captions": {
@@ -178,14 +178,14 @@
     "25": "Bedroom (floor 2)",
     "26": "Rear patio / yard",
     "27": "Rear patio / yard",
-    "28": "Floor plan \u2014 both floors",
-    "29": "Floor plan \u2014 1st floor",
+    "28": "Floor plan — both floors",
+    "29": "Floor plan — 1st floor",
     "3": "Foyer / entry hall",
-    "30": "Floor plan \u2014 2nd floor",
-    "4": "Living room \u2014 fireplace, double-height ceiling",
-    "5": "Living room \u2014 fireplace",
+    "30": "Floor plan — 2nd floor",
+    "4": "Living room — fireplace, double-height ceiling",
+    "5": "Living room — fireplace",
     "6": "Living / dining",
-    "7": "Living room \u2014 stairs",
+    "7": "Living room — stairs",
     "8": "Half bath (floor 1)",
     "9": "Dining area + kitchen"
    },
@@ -209,7 +209,7 @@
    "hcadAccount": "1064490010002",
    "legal": "Unit B Blk 1 Pine Village North T/H Sec 2",
    "lotSqft": 1710,
-   "priceHistory": "Listed 3/16/2026 at $100,000 \u2014 reduced to $70,000 on 10/26/2026. Bank-owned; also running as an auction on Auction.com. Owner per Oct 2026 public-record report: Aeroestate LLC.",
+   "priceHistory": "Listed 3/16/2026 at $100,000 — reduced to $70,000 on 10/26/2026. Bank-owned; also running as an auction on Auction.com. Owner per Oct 2026 public-record report: Aeroestate LLC.",
    "stories": 2,
    "yearBuilt": 1979
   },
@@ -218,12 +218,12 @@
    "sources": [
     {
      "figure": "Living Area 1,623 sq ft",
-     "name": "HCAD acct 1064490010002 \u2014 public-record reports (Jul + Oct 2026)",
+     "name": "HCAD acct 1064490010002 — public-record reports (Jul + Oct 2026)",
      "url": "https://adc-tenbox-prod.imgix.net/datalake/pir_reports/758EE0EB2C4F4FDDAE00DF8EC5CA21EB.v1.pdf"
     },
     {
      "figure": "Building size 1,623 sq ft",
-     "name": "CountyOffice.org \u2014 Harris County Assessor records",
+     "name": "CountyOffice.org — Harris County Assessor records",
      "url": "https://www.countyoffice.org/12251-w-village-dr-houston-tx-77039-property-records/"
     }
    ],
@@ -419,7 +419,7 @@
    "heightsFt": {
     "floor1": 9,
     "floor2": 8,
-    "note": "Assumed ceiling heights (estimated). The family room is double-height (photos 4, 5, 10) with the game room overlooking it \u2014 the model's Open to Below void sits over it."
+    "note": "Assumed ceiling heights (estimated). The family room is double-height (photos 4, 5, 10) with the game room overlooking it — the model's Open to Below void sits over it."
    }
   },
   "hoa": {
@@ -429,12 +429,12 @@
    "source": "Listing (Homes.com)"
   },
   "id": "2423-buttonhill-dr",
-  "listingLabel": "Listing \u2014 Homes.com (HAR MLS #82275940)",
+  "listingLabel": "Listing — Homes.com (HAR MLS #82275940)",
   "listingUrl": "https://www.homes.com/property/2423-buttonhill-dr-missouri-city-tx/frg77065bgwh5/?l=07khs4wbr3km6",
   "photos": {
    "captions": {
     "1": "Front exterior",
-    "10": "Family room \u2014 fireplace, beams",
+    "10": "Family room — fireplace, beams",
     "11": "Half bath (floor 1)",
     "12": "Hallway",
     "13": "Primary bedroom (floor 1)",
@@ -442,7 +442,7 @@
     "15": "Primary bedroom (floor 1)",
     "16": "Primary bedroom (floor 1)",
     "17": "Primary bath",
-    "18": "Primary bath \u2014 shower",
+    "18": "Primary bath — shower",
     "19": "Bedroom (floor 2)",
     "2": "Front exterior",
     "20": "Landing / game room overlook",
@@ -456,16 +456,16 @@
     "28": "Bedroom (floor 2)",
     "29": "Bedroom (floor 2)",
     "3": "Game room (floor 2)",
-    "30": "Bath \u2014 double vanity",
+    "30": "Bath — double vanity",
     "31": "Bath (floor 2)",
     "32": "Walk-in closet",
-    "33": "Floor plan \u2014 1st floor",
-    "34": "Floor plan \u2014 2nd floor",
-    "35": "Floor plan \u2014 both floors",
-    "4": "Family room \u2014 double-height ceiling, stairs",
+    "33": "Floor plan — 1st floor",
+    "34": "Floor plan — 2nd floor",
+    "35": "Floor plan — both floors",
+    "4": "Family room — double-height ceiling, stairs",
     "5": "Family room from the landing",
     "6": "Game room (floor 2)",
-    "7": "Family room \u2014 fireplace",
+    "7": "Family room — fireplace",
     "8": "Kitchen",
     "9": "Kitchen + dining"
    },
@@ -499,7 +499,7 @@
     "Bedroom 14'1\" x 13'10\"",
     "W.I.C. 5'8\" x 13'10\""
    ],
-   "note": "The Cubicasa plans for this house print room dimensions. Room areas from those dimensions sum to about 1,815 sq ft (floor 1) and 1,145 sq ft (floor 2) \u2014 within about 1% of Fort Bend CAD's 1,791 / 1,140, so the plan and the county record agree; the listing's 3,411 does not match either."
+   "note": "The Cubicasa plans for this house print room dimensions. Room areas from those dimensions sum to about 1,815 sq ft (floor 1) and 1,145 sq ft (floor 2) — within about 1% of Fort Bend CAD's 1,791 / 1,140, so the plan and the county record agree; the listing's 3,411 does not match either."
   },
   "price": 169900,
   "priceNote": "Listing price as of Nov 24, 2026",
@@ -516,7 +516,7 @@
    "yearBuilt": 1983
   },
   "verified": {
-   "caveat": "The 480 sq ft gap is exactly the attached garage's size in the FBCAD record (2,931 + 480 = 3,411) \u2014 the listing figure appears to count the garage as living area. HAR's display labels the 3,411 'Sqft / Appraisal District'; the same MLS feed's RESO fields say Living Area Source: 'Appraiser'. FBCAD's own record is 2,931.",
+   "caveat": "The 480 sq ft gap is exactly the attached garage's size in the FBCAD record (2,931 + 480 = 3,411) — the listing figure appears to count the garage as living area. HAR's display labels the 3,411 'Sqft / Appraisal District'; the same MLS feed's RESO fields say Living Area Source: 'Appraiser'. FBCAD's own record is 2,931.",
    "sources": [
     {
      "figure": "Living Area 2,931 sq ft = Main Area 1,791 + 2nd Story 1,140; attached garage 480 sq ft carried separately",
@@ -525,7 +525,7 @@
     },
     {
      "figure": "Building size 2,931 sq ft",
-     "name": "CountyOffice.org \u2014 Fort Bend Assessor records",
+     "name": "CountyOffice.org — Fort Bend Assessor records",
      "url": "https://www.countyoffice.org/buttonhill-dr-missouri-city-tx-property-records/"
     },
     {
@@ -535,11 +535,318 @@
     },
     {
      "figure": "Floor size 2,931 sq ft; garage 480 sq ft",
-     "name": "Homemetry \u2014 public records",
+     "name": "Homemetry — public records",
      "url": "https://homemetry.com/house/2423+BUTTONHILL+DR,+Missouri+City+TX"
     }
    ],
    "sqft": 2931
+  }
+ },
+ {
+  "id": "1303-coppermeade-dr",
+  "address": "1303 Coppermeade Dr, Houston, TX 77067",
+  "price": 145000,
+  "priceNote": "Listing price as of Nov 26, 2026 — listed 11/25/2026, 1 day on market (MLS #95849888)",
+  "listingLabel": "Listing — Redfin (HAR MLS #95849888)",
+  "listingUrl": "https://www.redfin.com/TX/Houston/1303-Coppermeade-Dr-77067/home/29189940",
+  "claimed": {
+   "sqft": 3609,
+   "beds": 5,
+   "baths": 2.5,
+   "source": "Listing (MLS #95849888, Chris Lawrence, Trillionaire Realty)"
+  },
+  "verified": {
+   "sqft": 3609,
+   "sources": [
+    {
+     "name": "Redfin (HAR MLS #95849888)",
+     "figure": "Finished Sq. Ft. 3,609",
+     "url": "https://www.redfin.com/TX/Houston/1303-Coppermeade-Dr-77067/home/29189940"
+    },
+    {
+     "name": "Realty Texas (MLS #95849888)",
+     "figure": "Square Feet 3,609",
+     "url": "https://www.realtytexas.com/houston/1303-coppermeade-drive-houston-77067-id-1195818554-mls-95849888.html"
+    },
+    {
+     "name": "Compass (MLS #95849888)",
+     "figure": "3,609 sq ft — Living Area Source: Appraiser"
+    }
+   ],
+   "caveat": "HCAD direct: pending live pull — HCAD's own record page is blocked online, so the county figure is NOT yet pulled directly. Three independent feeds (Redfin, Compass, Realty Texas) all carry 3,609 sq ft, matching the claim exactly (gap 0.0%, no flag). Compass states the living-area source as 'Appraiser'."
+  },
+  "hoa": {
+   "monthly": 35,
+   "annual": 420,
+   "name": "VanMor Properties, 832-593-7300",
+   "source": "Listing (MLS #95849888)"
+  },
+  "warning": "Due to condition, the property may have health/safety risk. Prior to entry or access, all parties must sign a Hold Harmless Agreement and the property may only be shown by appointment.",
+  "condition": "Bank-owned REO. Prior Sheriff's Deed $75,000. See the condition warning above — the listing itself flags health/safety risk and requires a signed Hold Harmless Agreement before entry, by appointment only.",
+  "records": {
+   "yearBuilt": 2002,
+   "stories": 2,
+   "lotSqft": 7475,
+   "legal": "LT 28 BLK 1 GREEN OAK PARK SEC 1",
+   "assessed2026": 307058,
+   "countsNote": "Parcel/APN: 122-627-001-0028 (Harris County). 2026 assessment $307,058 = land $49,938 + additions $257,120. 2026 tax $8,158 (HomeFinder; the MLS feed says $8,159 — $1 feed difference). 2025 tax $7,923 on $300,288. Subdivision: Green Oak Park Sec 01 · Aldine ISD. Lot 7,475 sq ft (some feeds print 7,474 — 0.01% difference), 0.1716 acre.",
+   "garage": "Attached 2-car garage (not in living sq ft)",
+   "priceHistory": "Listed 11/25/2026 at $145,000 ($40/sq ft) by Chris Lawrence, Trillionaire Realty. Bank-owned REO; prior Sheriff's Deed $75,000. Prior listing: $235,000 from Aug 8, 2025 to Feb 2, 2026 — removed unsold after 178 days."
+  },
+  "planNote": "No floor plan published — none found on Redfin, Compass, Realty Texas, or HomeFinder. The room dimensions below come from the prior listing (MLS #93106869 via Compass) and are unverified; the current MLS prints placeholder 1x1 / N/A dimensions, which are not used.",
+  "planDims": {
+   "note": "Prior listing (MLS #93106869 via Compass), unverified. Rooms not listed here had no dimensions in that listing.",
+   "floor1": [
+    "Primary Bedroom 15x16",
+    "Bedroom 13x13"
+   ],
+   "floor2": [
+    "Bedroom 19x20",
+    "Bedroom 13x12",
+    "Bedroom 13x12"
+   ]
+  },
+  "photos": {
+   "galleryUrl": "https://www.redfin.com/TX/Houston/1303-Coppermeade-Dr-77067/home/29189940",
+   "galleryLabel": "MLS photo gallery — Redfin",
+   "galleryNote": "Photos live on the listing sites; they are not copied here. Redfin's gallery images are numbered at least to _27; an older HomeFinder feed showed 18 — no fixed photo count is stated as verified."
+  },
+  "workup": [
+   {
+    "h": "Comps (sourced)",
+    "lines": [
+     "1302 Cross Draw Dr — 3,688 sq ft, sold May 13, 2026 for $335,000 ($90.83/sq ft, renovated).",
+     "1322 Coppermeade Dr — 3,287 sq ft, last listed $296,000, Dec 2025 ($90/sq ft).",
+     "Green Oak Park average $88/sq ft; median sold $255,000 (CurbScout/MLS, Nov 19, 2026).",
+     "This house at $40/sq ft sits ~54–56% below the modeled retail value of $314K–$328K — but as-is distressed is not retail, and it did not sell at $235,000 in 2025–26."
+    ]
+   },
+   {
+    "h": "Tax rate (sourced) — total 2.657%",
+    "lines": [
+     "Aldine ISD 1.034000 · Harris County 0.380960 · Flood Control 0.049660 · Port of Houston 0.005900 · Hospital District 0.187610 · Dept of Education 0.004798 · Lone Star College 0.106000 · Harris County MUD No. 5 0.750000 · ESD No. 11 (EMS) 0.038078 · ESD No. 17 (Fire) 0.100000. Total 2.657006.",
+     "No City of Houston tax — unincorporated Harris County.",
+     "Check: $307,058 × 2.657% = $8,158.53 — matches the $8,158 tax bill.",
+     "A $5,677 figure is NOT gross tax — it can only be the prior owner's bill after exemptions / capped taxable value (~$213,700). The seller's 10% cap resets at sale; it is not the buyer's tax."
+    ]
+   },
+   {
+    "h": "Buyer taxes (modeled)",
+    "lines": [
+     "Homestead: the school exemption is $140,000 (raised from $100,000 — Prop 13 / SB 4, effective tax year 2025), school-only, saving $140,000 × 1.034% = $1,448/yr. County units also give a 20% local-option homestead exemption.",
+     "At HCAD $307,058 with homestead: ~$6,200–$6,350/yr.",
+     "If HCAD accepts $145,000 with homestead: ~$2,220/yr. At $145,000 with no homestead: $3,853/yr."
+    ]
+   },
+   {
+    "h": "Insurance (benchmarks sourced, budget modeled)",
+    "lines": [
+     "Houston benchmarks for ~$300K dwelling coverage: Bankrate $5,224/yr · Insurify Houston $5,808/yr · Insurance.com Houston $5,391/yr · ValuePenguin ($350K dwelling) $5,067/yr.",
+     "Budget: $5,000–$5,800/yr ($420–$485/mo). Planning figure: $450/mo.",
+     "Flood, if required: NFIP ZIP average $1,057/yr. This lot's flood zone is not verified."
+    ]
+   },
+   {
+    "h": "VA loan (modeled)",
+    "lines": [
+     "Funding fee, first use, 0% down: 2.15% of $145,000 = $3,118, financed → loan $148,118.",
+     "Principal + interest at 7.00% / 30 yr: $985/mo.",
+     "All-in monthly at full tax escrow: ~$2,150/mo (P&I $985 + tax $680 + insurance $450 + HOA $35)."
+    ]
+   },
+   {
+    "h": "Financing warning",
+    "lines": [
+     "VA standard and FHA 203(b) likely FAIL on health/safety minimum property requirements until repairs are done before closing — and an REO bank rarely does pre-closing repairs.",
+     "Conventional (Fannie Mae) can close if the appraiser rates the condition C5 or better (C5 = obvious deferred maintenance, still livable); it fails if rated C6 (substantial damage affecting safety, soundness, or structure) until repaired to at least C5.",
+     "Paths that can close on a distressed house: FHA 203(k), Fannie Mae HomeStyle, VA renovation (few lenders), or cash.",
+     "VA delayed occupancy fits closings on/after Dec 2, 2026 (ETS Dec 2, 2027 is within 12 months); the lender must still approve post-ETS income."
+    ]
+   },
+   {
+    "h": "Inspection budget (published prices)",
+    "lines": [
+     "Base inspection $550–$665 at 3,600 sq ft + WDI $110–$125 + sewer scope $195–$295 + mold $285–$495 = ~$1,150–$1,580.",
+     "Add a structural engineer $500–$800 if the foundation is flagged."
+    ]
+   }
+  ],
+  "modelNote": "Modeled: no floor plan is published for this house. The 3D model is a block model scaled to the 3,609 sq ft total, with a modeled floor split (1,900 sq ft floor 1 + 1,709 sq ft floor 2). The room layout is modeled, using the prior listing's room dimensions as a lead only. Lot block 7,475 sq ft; the 2-car garage is drawn outside the living total. Ceiling heights assumed (9 ft floor 1, 8 ft floor 2).",
+  "geometry": {
+   "comment": "Modeled layout — no published floor plan. Floors split the 3,609 sq ft total as a modeled 1,900 / 1,709. Room boxes are a modeled layout using the prior listing's room dimensions (primary 15x16 first floor; bedrooms 13x13 first floor, 19x20 + 13x12 + 13x12 second floor; 2 bedrooms down, 3 up per the listing) as a lead only.",
+   "floorAreas": {
+    "floor1": 1900,
+    "floor2": 1709
+   },
+   "aspectWH": {
+    "floor1": 0.76,
+    "floor2": 0.844
+   },
+   "floor1": {
+    "rooms": [
+     {
+      "name": "Primary Bedroom",
+      "x": 0.0,
+      "y": 0.55,
+      "w": 0.4,
+      "d": 0.32
+     },
+     {
+      "name": "Primary Bath",
+      "x": 0.0,
+      "y": 0.87,
+      "w": 0.4,
+      "d": 0.13
+     },
+     {
+      "name": "Foyer",
+      "x": 0.4,
+      "y": 0.87,
+      "w": 0.2,
+      "d": 0.13
+     },
+     {
+      "name": "Half Bath",
+      "x": 0.6,
+      "y": 0.87,
+      "w": 0.15,
+      "d": 0.13
+     },
+     {
+      "name": "Stairs",
+      "x": 0.75,
+      "y": 0.8,
+      "w": 0.25,
+      "d": 0.2
+     },
+     {
+      "name": "Family Room",
+      "x": 0.4,
+      "y": 0.45,
+      "w": 0.6,
+      "d": 0.35
+     },
+     {
+      "name": "Dining Area",
+      "x": 0.55,
+      "y": 0.18,
+      "w": 0.45,
+      "d": 0.27
+     },
+     {
+      "name": "Kitchen",
+      "x": 0.55,
+      "y": 0.0,
+      "w": 0.45,
+      "d": 0.18
+     },
+     {
+      "name": "Bedroom",
+      "x": 0.0,
+      "y": 0.0,
+      "w": 0.34,
+      "d": 0.26
+     },
+     {
+      "name": "Hall",
+      "x": 0.34,
+      "y": 0.0,
+      "w": 0.21,
+      "d": 0.26
+     },
+     {
+      "name": "Living Room",
+      "x": 0.0,
+      "y": 0.26,
+      "w": 0.4,
+      "d": 0.29
+     }
+    ]
+   },
+   "floor2": {
+    "rooms": [
+     {
+      "name": "Bedroom",
+      "x": 0.0,
+      "y": 0.0,
+      "w": 0.5,
+      "d": 0.4
+     },
+     {
+      "name": "Bath",
+      "x": 0.5,
+      "y": 0.0,
+      "w": 0.2,
+      "d": 0.2
+     },
+     {
+      "name": "Bedroom",
+      "x": 0.7,
+      "y": 0.0,
+      "w": 0.3,
+      "d": 0.24
+     },
+     {
+      "name": "Bedroom",
+      "x": 0.7,
+      "y": 0.24,
+      "w": 0.3,
+      "d": 0.24
+     },
+     {
+      "name": "Game Room",
+      "x": 0.0,
+      "y": 0.4,
+      "w": 0.55,
+      "d": 0.4
+     },
+     {
+      "name": "Hall",
+      "x": 0.55,
+      "y": 0.2,
+      "w": 0.15,
+      "d": 0.28
+     },
+     {
+      "name": "Stairs",
+      "x": 0.55,
+      "y": 0.48,
+      "w": 0.2,
+      "d": 0.32
+     },
+     {
+      "name": "Bath",
+      "x": 0.75,
+      "y": 0.48,
+      "w": 0.25,
+      "d": 0.22
+     },
+     {
+      "name": "Loft",
+      "x": 0.0,
+      "y": 0.8,
+      "w": 0.75,
+      "d": 0.2
+     },
+     {
+      "name": "Closet",
+      "x": 0.75,
+      "y": 0.7,
+      "w": 0.25,
+      "d": 0.3
+     }
+    ]
+   },
+   "garage": {
+    "name": "Garage (2-car, not living area)",
+    "sqft": 440,
+    "note": "Attached 2-car garage; placement estimated."
+   },
+   "heightsFt": {
+    "floor1": 9,
+    "floor2": 8,
+    "note": "Assumed ceiling heights (estimated)."
+   }
   }
  }
 ]

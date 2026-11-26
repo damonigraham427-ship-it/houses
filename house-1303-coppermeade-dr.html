@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2423 Buttonhill Dr — Houses</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.flag { color: #b91c1c; font-weight: 700; }
+#model { width: 100%; height: 480px; background: #e8edf3; border-radius: 8px; overflow: hidden; }
+#model canvas { display: block; }
+.floor-btns { margin: 0.6rem 0 0.2rem; }
+.floor-btns button { background: #fff; border: 2px solid #111827; border-radius: 8px; padding: 0.4rem 0.9rem; margin-right: 0.4rem; font-weight: 600; cursor: pointer; }
+.floor-btns button.on { background: #111827; color: #fff; }
+.plan-img, .photo-img { width: 100%; height: auto; border-radius: 8px; }
+figure { margin: 0.9rem 0; }
+figcaption { color: #475569; font-size: .9rem; margin-top: 0.3rem; }
+</style>
+</head>
+<body data-house-id="1303-coppermeade-dr">
+<main>
+<p><a href="houses.html">&larr; Houses</a> &middot; <a href="https://damonigraham427-ship-it.github.io/exams/">&larr; Exams portal</a></p>
+<h1 id="sheet-title">Loading…</h1>
+<p id="sheet-price"></p>
+<p id="sheet-listing"></p>
+
+<section id="sheet-warning"></section>
+<section id="sheet-facts"></section>
+<section id="sheet-record"></section>
+<section id="sheet-plandims"></section>
+
+<h2>3D model</h2>
+<div id="model"></div>
+<div class="floor-btns">
+<button type="button" data-floor="both" class="on">Both floors</button>
+<button type="button" data-floor="1">1st floor</button>
+<button type="button" data-floor="2">2nd floor</button>
+</div>
+<p id="model-readout" class="history"></p>
+
+<section id="sheet-plans"></section>
+<section id="sheet-photos"></section>
+<section id="sheet-workup"></section>
+<section id="sheet-notes"></section>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script src="house-sheet.js"></script>
+<script src="model3d.js"></script>
+<script src="sync.js"></script>
+</body>
+</html>
