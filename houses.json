@@ -898,5 +898,33 @@
    "Flood Factor 1/10 (minimal) — Redfin / First Street",
    "Listing framing: “Investor opportunity... currently in livable condition but presents a great value-add opportunity with some cosmetic updates”"
   ]
+ },
+ {
+  "id": "5618-easthampton-dr-unit-c",
+  "watch": true,
+  "address": "5618 Easthampton Dr Unit C, Houston, TX 77039",
+  "price": 59900,
+  "priceNote": "Active — listed Oct 11, 2026 (46 days on Redfin)",
+  "listingLabel": "Listing — Redfin (MLS #3317569)",
+  "listingUrl": "https://www.redfin.com/TX/Houston/5618-Easthampton-Dr-77039/unit-C/home/30305493",
+  "claimed": {
+   "sqft": 1527,
+   "beds": 3,
+   "baths": 2.5,
+   "source": "Listing (MLS #3317569, Joel Rankin, J.D. Rankin and Associates)"
+  },
+  "hoa": {
+   "monthly": 167,
+   "source": "Listing (MLS #3317569)"
+  },
+  "watchFacts": [
+   "FORECLOSURE — bank-owned, sold as-is (tagged Foreclosure on Realtor.com and Zillow)",
+   "Condo/townhome, built 1979 · lot 1,883 sq ft · 2-car garage · Pine Village North",
+   "APN 1064520130003",
+   "Taxes ~$2,499/yr",
+   "Listing framing: “Investor opportunity... ready for rehab and requires substantial repairs and updating throughout... sold as-is”",
+   "Photos: 26 in the set, but they do not show the admitted damage — condition undocumented",
+   "Flood Factor 1/10 (minimal) — Redfin / First Street"
+  ]
  }
 ]
