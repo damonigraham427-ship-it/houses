@@ -875,5 +875,28 @@
    "Flood Factor 1/10 (minimal) — Redfin / First Street",
    "Listing framing: “opportunity to personalize and add value” — investor/fixer wording"
   ]
+ },
+ {
+  "id": "12254-wild-pine-dr-unit-a",
+  "watch": true,
+  "address": "12254 Wild Pine Dr Unit A, Houston, TX 77039",
+  "price": 80000,
+  "priceNote": "Active — listed Feb 27, 2026 (272 days on Redfin)",
+  "listingLabel": "Listing — Redfin (MLS #4584913)",
+  "listingUrl": "https://www.redfin.com/TX/Houston/12254-Wild-Pine-Dr-77039/unit-A/home/30304961",
+  "claimed": {
+   "sqft": 1782,
+   "beds": 3,
+   "baths": 2.5,
+   "source": "Listing (MLS #4584913, Josue Cruz, Keller Williams Realty Metropolitan)"
+  },
+  "watchFacts": [
+   "Damoni's offer target: $50,000 — 37.5% under ask. His read: 272 days unsold, plus the $48,000 comp at 12435 W Village Dr Unit B in the same community.",
+   "Townhome, built 1979 · lot 1,785 sq ft · 1 parking space · Pine Village North area",
+   "APN 1064510140001",
+   "Brand new roof 2026 (per listing)",
+   "Flood Factor 1/10 (minimal) — Redfin / First Street",
+   "Listing framing: “Investor opportunity... currently in livable condition but presents a great value-add opportunity with some cosmetic updates”"
+  ]
  }
 ]
