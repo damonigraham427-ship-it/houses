@@ -848,5 +848,32 @@
     "note": "Assumed ceiling heights (estimated)."
    }
   }
+ },
+ {
+  "id": "12435-w-village-dr-unit-b",
+  "watch": true,
+  "address": "12435 W Village Dr Unit B, Houston, TX 77039",
+  "price": 48000,
+  "priceNote": "Active — listed Oct 30, 2026 (27 days on Redfin at last check)",
+  "listingLabel": "Listing — Redfin (MLS #58464546)",
+  "listingUrl": "https://www.redfin.com/TX/Houston/12435-W-Village-Dr-77039/unit-B/home/30304777",
+  "claimed": {
+   "sqft": 1544,
+   "beds": 3,
+   "baths": 2.5,
+   "source": "Listing (MLS #58464546, Rochelle Jones, Aplomb Real Estate)"
+  },
+  "hoa": {
+   "monthly": 202,
+   "source": "Listing (MLS #58464546)"
+  },
+  "watchFacts": [
+   "Townhome, built 1979 · lot 1,382 sq ft · Pine Village North — same community as 12251 W Village Dr Unit B",
+   "APN 1064480020002 · county total value $108,463",
+   "Taxes ~$2,280/yr per HAR (2025 tax bill $2,727.60 per county records aggregator)",
+   "Garage: YES — detached, 400 sq ft, 2 parking spaces (county property record; the Redfin listing leaves the garage field blank)",
+   "Flood Factor 1/10 (minimal) — Redfin / First Street",
+   "Listing framing: “opportunity to personalize and add value” — investor/fixer wording"
+  ]
  }
 ]

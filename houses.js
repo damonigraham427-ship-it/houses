@@ -7,7 +7,52 @@
     return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
   }
 
+  function renderWatchCard(house) {
+    var card = document.createElement('article');
+    card.className = 'exam-card';
+
+    var h = document.createElement('h2');
+    h.textContent = (house.address || '') + ' \u2014 Watch';
+    card.appendChild(h);
+
+    var price = document.createElement('p');
+    price.textContent = '$' + fmt(house.price || 0) +
+      (house.priceNote ? ' \u2014 ' + house.priceNote : '');
+    card.appendChild(price);
+
+    if (house.claimed) {
+      var c = house.claimed;
+      var line = document.createElement('p');
+      line.textContent = fmt(c.sqft) + ' sq ft \u00B7 ' + c.beds + ' bd \u00B7 ' +
+        c.baths + ' ba (source: ' + c.source + ')';
+      card.appendChild(line);
+    }
+
+    if (house.hoa) {
+      var hoa = document.createElement('p');
+      hoa.textContent = 'HOA: $' + fmt(house.hoa.monthly) + '/mo';
+      card.appendChild(hoa);
+    }
+
+    (house.watchFacts || []).forEach(function (fact) {
+      var p = document.createElement('p');
+      p.textContent = fact;
+      card.appendChild(p);
+    });
+
+    if (house.listingUrl) {
+      var link = document.createElement('a');
+      link.className = 'start-btn';
+      link.href = house.listingUrl;
+      link.textContent = 'View listing';
+      card.appendChild(link);
+    }
+
+    return card;
+  }
+
   function renderCard(house) {
+    if (house.watch) return renderWatchCard(house);
     var card = document.createElement('article');
     card.className = 'exam-card';
 
